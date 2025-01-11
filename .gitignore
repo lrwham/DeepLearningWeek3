@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 histopathologic-cancer-detection.zip
 *.tif
+sample_submission.csv
